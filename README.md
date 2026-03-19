@@ -1,6 +1,6 @@
-# PageGrade
+# Landing Page Grader
 
-PageGrade is a Next.js 14 landing page grader that fetches a URL, parses the HTML on the server, and returns structured heuristic feedback for conversion-oriented landing pages.
+Landing Page Grader is a Next.js 14 app that fetches a URL, parses the HTML on the server, and returns structured heuristic feedback for conversion-oriented landing pages.
 
 ## Stack
 
